@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Vinicius Zimmer Zenatti, tenho 18 anos, e sou estudante de Engenharia de Computação pela Univates...</p>
+<p align="left">Meu nome é Vinicius Zimmer Zenatti, tenho 18 anos e sou natural de Canudos do Vale, atualmente faço Engenharia de Computação pela Univates. Estou em busca da minha primeira oportunidade como desenvolvedor...</p>
 
 ###
 
